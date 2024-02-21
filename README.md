@@ -1,10 +1,11 @@
 Autênticação Biométrica
+_________________________________________________________
 
-Tecnologia Principal
+Tecnologia Principal:
 React Native Expo
 
-Biblioteca de biometria
+Biblioteca de biometria:
 Expo Local Authentication
 
-Acessar o projecto
+Acessar o projecto:
 terminal -> npx expo start
